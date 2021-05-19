@@ -25,7 +25,6 @@ backports.weakref==1.0.post1
 banal==0.4.2
 bashplotlib==0.6.5
 bcrypt==3.1.7
-beanstalkc==0.4.0
 BeautifulSoup==3.2.2
 beautifulsoup4==4.8.1
 biopython==1.74
